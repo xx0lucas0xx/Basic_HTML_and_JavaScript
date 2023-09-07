@@ -1,5 +1,5 @@
 # Basic_HTML_and_JavaScript_2
-practice for adding java to HTML
+Practice for adding java to HTML
 
      Basic_HTML_1.html
 [a basic insperational html page with an image and custom text]
